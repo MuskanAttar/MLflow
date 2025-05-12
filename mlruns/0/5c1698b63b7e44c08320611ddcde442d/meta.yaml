@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5c1698b63b7e44c08320611ddcde442d/artifacts
+end_time: 1746783655211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c1698b63b7e44c08320611ddcde442d
+run_name: rare-boar-493
+run_uuid: 5c1698b63b7e44c08320611ddcde442d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746783506163
+status: 4
+tags: []
+user_id: MUSKAN

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/121387734748593820/ee87e9af1c9f453da4b2e0765a5f9b9c/artifacts
+end_time: 1746639202217
+entry_point_name: ''
+experiment_id: '121387734748593820'
+lifecycle_stage: active
+run_id: ee87e9af1c9f453da4b2e0765a5f9b9c
+run_name: puzzled-whale-708
+run_uuid: ee87e9af1c9f453da4b2e0765a5f9b9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746639189549
+status: 3
+tags: []
+user_id: MUSKAN

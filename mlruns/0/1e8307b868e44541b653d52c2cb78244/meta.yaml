@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1e8307b868e44541b653d52c2cb78244/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e8307b868e44541b653d52c2cb78244
+run_name: blushing-mule-936
+run_uuid: 1e8307b868e44541b653d52c2cb78244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746783853125
+status: 1
+tags: []
+user_id: MUSKAN

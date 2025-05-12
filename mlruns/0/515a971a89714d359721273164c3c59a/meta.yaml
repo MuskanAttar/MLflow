@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/515a971a89714d359721273164c3c59a/artifacts
+end_time: 1746783455917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 515a971a89714d359721273164c3c59a
+run_name: welcoming-steed-765
+run_uuid: 515a971a89714d359721273164c3c59a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746783450839
+status: 4
+tags: []
+user_id: MUSKAN

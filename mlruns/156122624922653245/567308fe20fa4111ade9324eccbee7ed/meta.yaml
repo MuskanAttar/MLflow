@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/156122624922653245/567308fe20fa4111ade9324eccbee7ed/artifacts
+end_time: 1746638303337
+entry_point_name: ''
+experiment_id: '156122624922653245'
+lifecycle_stage: active
+run_id: 567308fe20fa4111ade9324eccbee7ed
+run_name: welcoming-donkey-724
+run_uuid: 567308fe20fa4111ade9324eccbee7ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746638303273
+status: 4
+tags: []
+user_id: MUSKAN
